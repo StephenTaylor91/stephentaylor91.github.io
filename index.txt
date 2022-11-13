@@ -1,0 +1,36 @@
+<body>
+<div class="container-sm borderEdge"></div>
+<div class="container-fluid">
+<h1>Welcome to Wizard Frog Shop!</h1>
+</div>
+<div class="container">
+<div class="col" >Test</div>
+<div class="col">
+	<div class="row">
+		<div class="col">
+	<h4 class="border border-success">My name is Stephen Taylor and welcome to my shop! Below you will find some links to some of my content as well as the inventory for the shop!
+										Drop by my discord "The Lilypad" and say hi!</h4>
+		</div>
+	</div>
+	</div>
+	<div class="row" > <p id="discordLink">Discord Link</p></div>
+	<div class="row">
+		<div class="col">
+		<a href="https://www.twitch.tv/sempahsix"> <img src="WizFrogShopImg/TwitchLogo.png" class="img-fluid" height="500px" width="700px"></a>
+		</div>
+		<div class="col">
+		<a href="https://www.youtube.com/channel/UCwYiDN9CmoZr7VnlW6P_sug"> <img src="WizFrogShopImg/YoutubeLogo.png" class="img-fluid" height="500px" width="700px"> </a>
+		</div>
+	</div>
+	
+		<div class="row">
+		<div class="col"></div>
+		<div class="col" >
+		<a href="magic" class="btn">	<img src="WizFrogShopImg/Magic Card back.jpg" alt="Magic Card" class="img-fluid" height="700px" width="500px"> </a></div>
+		<div class="col"></div>
+		<div class="col">
+		<a href="yugioh" class="btn"><img src="WizFrogShopImg/Yugioh_Card_Back.jpg" alt="Yugioh Card"  class="img-fluid" height="700px" width="500px"></a>
+			</div>		
+		<div class="col"></div>
+</div>
+</div>
